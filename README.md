@@ -35,5 +35,6 @@ status updates to a Flask server hosted on AWS, which forwards notifications to 
 .
 ├──  main.cpp            # ESP32 firmware (sensor + LEDs + HTTP client)
 ├──  server.py           # Flask server (receives updates, sends Telegram)
-├──  docs                # photos              
+├──  docs                # photos
+├──  .gitignore            
 └──  README.md
